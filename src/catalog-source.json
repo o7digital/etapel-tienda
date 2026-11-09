@@ -1,0 +1,1802 @@
+[
+  {
+    "name": "Cabinas y zonas de preparación",
+    "description": "Soluciones para ordenar áreas de pintura, mezcla y preparación.",
+    "line": "Cabinas de pintura",
+    "subline": "Proyecto integral Etapel",
+    "image": "/images/products/usi-chronotech.png",
+    "url": "/linea-de-producto/productos/cabinas-zonas-preparacion"
+  },
+  {
+    "name": "USI Italia CHRONOTECH",
+    "description": "USI Italia CHRONOTECH, solución USI Italia para cabinas de pintura.",
+    "line": "Cabinas de pintura",
+    "subline": "USI Italia",
+    "image": "/images/products/usi-chronotech.png",
+    "url": "/linea-de-producto/productos/catalogo-cabinas-de-pintura-usi-italia"
+  },
+  {
+    "name": "Cabinas de pintura — Millibar",
+    "description": "Cabinas de pintura — Millibar, solución Millibar para cabinas de pintura.",
+    "line": "Cabinas de pintura",
+    "subline": "Millibar",
+    "image": "/images/products/verified/catalogo-cabinas-de-pintura-millibar.webp",
+    "url": "/linea-de-producto/productos/catalogo-cabinas-de-pintura-millibar"
+  },
+  {
+    "name": "Zonas de prepracion — USI Italia",
+    "description": "Zonas de prepracion — USI Italia, solución USI Italia para zonas de preparación.",
+    "line": "Zonas de preparación",
+    "subline": "USI Italia",
+    "image": "/images/products/verified/catalogo-zonas-de-prepracion-usi-italia.webp",
+    "url": "/linea-de-producto/productos/catalogo-zonas-de-prepracion-usi-italia"
+  },
+  {
+    "name": "Zonas de prepracion — Millibar",
+    "description": "Zonas de prepracion — Millibar, solución Millibar para zonas de preparación.",
+    "line": "Zonas de preparación",
+    "subline": "Millibar",
+    "image": "/images/products/verified/catalogo-zonas-de-prepracion-millibar.webp",
+    "url": "/linea-de-producto/productos/catalogo-zonas-de-prepracion-millibar"
+  },
+  {
+    "name": "BenchRack™",
+    "description": "BenchRack™, solución Car-O-Liner para bancos de enderezado autos y suv.",
+    "line": "Bancos de enderezado autos y SUV",
+    "subline": "BenchRack",
+    "image": "/images/products/client-catalog/benchracktm.webp",
+    "url": "/linea-de-producto/productos/catalogo-benchracktm"
+  },
+  {
+    "name": "BENCHRACK™ VERSA",
+    "description": "BENCHRACK™ VERSA, solución Car-O-Liner para bancos de enderezado autos y suv.",
+    "line": "Bancos de enderezado autos y SUV",
+    "subline": "BenchRack Versa",
+    "image": "/images/products/client-catalog/benchracktm-versa.webp",
+    "url": "/linea-de-producto/productos/catalogo-benchracktm-versa"
+  },
+  {
+    "name": "SPEED™ 3T/SPEED™ 3T PLUS",
+    "description": "SPEED™ 3T/SPEED™ 3T PLUS, solución Car-O-Liner para bancos de enderezado autos y suv.",
+    "line": "Bancos de enderezado autos y SUV",
+    "subline": "Speed 3T",
+    "image": "/images/products/client-catalog/speedtm-3t-speedtm-3t-plus.webp",
+    "url": "/linea-de-producto/productos/catalogo-speedtm-3t-speedtm-3t-plus"
+  },
+  {
+    "name": "Car-O-Liner POINTX® II",
+    "description": "Herramienta de medición diagnóstica para verificar la geometría de la carrocería con rapidez y precisión.",
+    "line": "Equipos de medición",
+    "subline": "POINT X",
+    "image": "/images/products/pointx-ii-official.jpg",
+    "url": "/linea-de-producto/productos/catalogo-pointx-ii"
+  },
+  {
+    "name": "Car-O-Tronic®",
+    "description": "Car-O-Tronic®, solución Car-O-Liner para equipos de medición.",
+    "line": "Equipos de medición",
+    "subline": "Car-O-Tronic",
+    "image": "/images/products/client-catalog/car-o-tronic.webp",
+    "url": "/linea-de-producto/productos/catalogo-car-o-tronic"
+  },
+  {
+    "name": "B731",
+    "description": "B731, solución Car-O-Liner para accesorios car o liner.",
+    "line": "Accesorios Car-O-Liner",
+    "subline": "Mordazas de chasis",
+    "image": "/images/products/client-catalog/b731.webp",
+    "url": "/linea-de-producto/productos/catalogo-b731"
+  },
+  {
+    "name": "EVO 1,2 y 3",
+    "description": "EVO 1,2 y 3, solución Etapel para accesorios car o liner.",
+    "line": "Accesorios Car-O-Liner",
+    "subline": "EVO 1, 2 y 3",
+    "image": "/images/products/verified/catalogo-evo-1-2-y-3.webp",
+    "url": "/linea-de-producto/productos/catalogo-evo-1-2-y-3"
+  },
+  {
+    "name": "Cam alinger",
+    "description": "Cam alinger, solución JOSAM para alineación y enderezado vehículos pesados.",
+    "line": "Alineación y enderezado de vehículos pesados",
+    "subline": "Cam-Aligner",
+    "image": "/images/products/verified/catalogo-cam-alinger.webp",
+    "url": "/linea-de-producto/productos/catalogo-cam-alinger"
+  },
+  {
+    "name": "Frame Press",
+    "description": "Frame Press, solución JOSAM para alineación y enderezado vehículos pesados.",
+    "line": "Alineación y enderezado de vehículos pesados",
+    "subline": "Frame Press",
+    "image": "/images/products/client-catalog/frame-press.webp",
+    "url": "/linea-de-producto/productos/catalogo-frame-press"
+  },
+  {
+    "name": "Inductor de calor",
+    "description": "Inductor de calor, solución JOSAM para alineación y enderezado vehículos pesados.",
+    "line": "Alineación y enderezado de vehículos pesados",
+    "subline": "Inductor de calor",
+    "image": "/images/products/client-catalog/jh1500.webp",
+    "url": "/linea-de-producto/productos/catalogo-inductor-de-calor"
+  },
+  {
+    "name": "Redes aire comprimido",
+    "description": "Redes aire comprimido, solución Prevost para líneas de aire comprimido.",
+    "line": "Líneas de aire comprimido",
+    "subline": "Prevost",
+    "image": "/images/products/client-catalog/redes-aire-comprimido.webp",
+    "url": "/linea-de-producto/productos/catalogo-redes-aire-comprimido"
+  },
+  {
+    "name": "Compresor de tornillo DENAIR con secador integrado",
+    "description": "Compresor de tornillo Denair compacto con secador refrigerativo integrado.",
+    "line": "Compresores Denair",
+    "subline": "Compresor con secador integrado",
+    "image": "/images/products/client-catalog/denair-compresor-integrado.webp",
+    "url": "/linea-de-producto/productos/catalogo-compresor-de-tornillo-denair-con-secador-integrado"
+  },
+  {
+    "name": "Rampas y elevadores EAE",
+    "description": "Rampas y elevadores EAE, solución EAE para rampas y elevadores  eae.",
+    "line": "Rampas y elevadores EAE",
+    "subline": "EAE",
+    "image": "/images/products/verified/catalogo-rampas-y-elevadores-eae.webp",
+    "url": "/linea-de-producto/productos/catalogo-rampas-y-elevadores-eae"
+  },
+  {
+    "name": "GEOLINER® 609",
+    "description": "GEOLINER® 609, solución Hofmann para alineadoras.",
+    "line": "Alineadoras",
+    "subline": "Hofmann",
+    "image": "/images/products/client-catalog/geoliner-609.webp",
+    "url": "/linea-de-producto/productos/catalogo-geoliner-609"
+  },
+  {
+    "name": "GEOLINER® 630",
+    "description": "GEOLINER® 630, solución Hofmann para alineadoras.",
+    "line": "Alineadoras",
+    "subline": "Hofmann",
+    "image": "/images/products/client-catalog/geoliner-630.webp",
+    "url": "/linea-de-producto/productos/catalogo-geoliner-630"
+  },
+  {
+    "name": "Desmontadora de neumáticos — Bright",
+    "description": "Desmontadora de neumáticos — Bright, solución Bright para desmontadora.",
+    "line": "Desmontadoras",
+    "subline": "Bright",
+    "image": "/images/products/verified/catalogo-monty-3300-20-smart-gp-plus.webp",
+    "url": "/linea-de-producto/productos/catalogo-monty-3300-20-smart-gp-plus"
+  },
+  {
+    "name": "Balanceadora de ruedas — Bright",
+    "description": "Balanceadora de ruedas — Bright, solución Bright para balanceadoras.",
+    "line": "Balanceadoras",
+    "subline": "Bright",
+    "image": "/images/products/verified/catalogo-geodyna-7100.webp",
+    "url": "/linea-de-producto/productos/catalogo-geodyna-7100"
+  },
+  {
+    "name": "EZ-ADAS Recalibration System",
+    "description": "EZ-ADAS Recalibration System, solución SUN para adas.",
+    "line": "ADAS",
+    "subline": "SUN",
+    "image": "/images/products/client-catalog/ez-adas-recalibration-system.webp",
+    "url": "/linea-de-producto/productos/catalogo-ez-adas-recalibration-system"
+  },
+  {
+    "name": "Solary SEEB1 — Lámpara infrarroja de onda corta",
+    "description": "Solary SEEB1 — Lámpara infrarroja de onda corta, solución Solary para lámparas infrarrojas.",
+    "line": "Lámparas infrarrojas",
+    "subline": "Solary",
+    "image": "/images/products/client-catalog/solary-electricals-single-head-short-wave-paint-to-dry-infrared-curing-lamp-for-car-bodywork-repair-paint-dryer.webp",
+    "url": "/linea-de-producto/productos/catalogo-solary-seeb1-lampara-infrarroja-de-onda-corta"
+  },
+  {
+    "name": "Solary SEEBB2EA — Lámpara infrarroja de dos cabezales",
+    "description": "Solary SEEBB2EA — Lámpara infrarroja de dos cabezales, solución Solary para lámparas infrarrojas.",
+    "line": "Lámparas infrarrojas",
+    "subline": "Solary",
+    "image": "/images/products/client-catalog/solary-infrared-paint-curing-lamp-2-head-short-wave-infrared-lamp-for-painting-model-b2ea.webp",
+    "url": "/linea-de-producto/productos/catalogo-solary-infrared-paint-curing-lamp-2-head-short-wave-infrared-lamp-for-painting-model-b2ea"
+  },
+  {
+    "name": "IRT Prep 3",
+    "description": "IRT Prep 3, solución Hedson para lámparas infrarrojas.",
+    "line": "Lámparas infrarrojas",
+    "subline": "IRT",
+    "image": "/images/products/verified/catalogo-irt-prep-3.webp",
+    "url": "/linea-de-producto/productos/catalogo-irt-prep-3"
+  },
+  {
+    "name": "IRT Prep X LDP",
+    "description": "IRT Prep X LDP, solución Hedson para lámparas infrarrojas.",
+    "line": "Lámparas infrarrojas",
+    "subline": "IRT",
+    "image": "/images/products/verified/catalogo-irt-prep-x-ldp.webp",
+    "url": "/linea-de-producto/productos/catalogo-irt-prep-x-ldp"
+  },
+  {
+    "name": "IRT Prep 4",
+    "description": "IRT Prep 4, solución Hedson para lámparas infrarrojas.",
+    "line": "Lámparas infrarrojas",
+    "subline": "IRT",
+    "image": "/images/products/verified/catalogo-irt-prep-4.webp",
+    "url": "/linea-de-producto/productos/catalogo-irt-prep-4"
+  },
+  {
+    "name": "Lijadora neumática de palma orbital aleatoria con plato de 12 mm y órbita de 3mm - SKORPIOIII",
+    "description": "Lijadora neumática de palma orbital aleatoria con plato de 12 mm y órbita de 3mm - SKORPIOIII, solución RUPES para sistemas de lijado.",
+    "line": "Sistemas de lijado",
+    "subline": "Lijadoras",
+    "image": "/images/products/client-catalog/lijadora-neumatica-de-palma-orbital-aleatoria-con-plato-de-12-mm-y-orbita-de-3mm-skorpioiii.webp",
+    "url": "/linea-de-producto/productos/catalogo-lijadora-neumatica-de-palma-orbital-aleatoria-con-plato-de-12-mm-y-orbita-de-3mm-skorpioiii"
+  },
+  {
+    "name": "Aspirador profesional de 45 litros",
+    "description": "Aspirador profesional de 45 litros, solución RUPES para sistemas de lijado.",
+    "line": "Sistemas de lijado",
+    "subline": "Aspiradoras",
+    "image": "/images/products/verified/catalogo-aspirador-profesional-de-45-litros.webp",
+    "url": "/linea-de-producto/productos/catalogo-aspirador-profesional-de-45-litros"
+  },
+  {
+    "name": "Sistema de pulido — ShineMate",
+    "description": "Sistema de pulido — ShineMate, solución ShineMate para sistema de pulido.",
+    "line": "Sistema de pulido",
+    "subline": "Pulidoras",
+    "image": "/images/products/verified/catalogo-orbital-polisher-eb351-5-15-shinemate-global.webp",
+    "url": "/linea-de-producto/productos/catalogo-sistema-de-pulido-shinemate"
+  },
+  {
+    "name": "Pulidora orbital aleatoria BigFoot LHR21 Mark V",
+    "description": "Pulidora orbital aleatoria BigFoot LHR21 Mark V, solución RUPES para sistema de pulido.",
+    "line": "Sistema de pulido",
+    "subline": "Pulidoras",
+    "image": "/images/products/verified/catalogo-pulidora-orbital-aleatoria-bigfoot-lhr21-mark-v.webp",
+    "url": "/linea-de-producto/productos/catalogo-pulidora-orbital-aleatoria-bigfoot-lhr21-mark-v"
+  },
+  {
+    "name": "borlas rupes",
+    "description": "borlas rupes, solución RUPES para sistema de pulido.",
+    "line": "Sistema de pulido",
+    "subline": "Borlas RUPES",
+    "image": "/images/products/verified/catalogo-borlas-rupes.webp",
+    "url": "/linea-de-producto/productos/catalogo-borlas-rupes"
+  },
+  {
+    "name": "GYSPOT 27.02",
+    "description": "GYSPOT 27.02, solución GYS para desabollo de carroceria auto y suv.",
+    "line": "Desabollo de carrocería auto y SUV",
+    "subline": "Reparación de abolladuras",
+    "image": "/images/products/client-catalog/gyspot-27-02.webp",
+    "url": "/linea-de-producto/productos/catalogo-gyspot-27-02"
+  },
+  {
+    "name": "GYSPOT 34.02",
+    "description": "GYSPOT 34.02, solución GYS para desabollo de carroceria auto y suv.",
+    "line": "Desabollo de carrocería auto y SUV",
+    "subline": "Reparación de abolladuras",
+    "image": "/images/products/client-catalog/gyspot-34-02.webp",
+    "url": "/linea-de-producto/productos/catalogo-gyspot-34-02"
+  },
+  {
+    "name": "GYSPOT 3902",
+    "description": "GYSPOT 3902, solución GYS para desabollo de carroceria auto y suv.",
+    "line": "Desabollo de carrocería auto y SUV",
+    "subline": "Reparación de abolladuras",
+    "image": "/images/products/client-catalog/gyspot-3902.webp",
+    "url": "/linea-de-producto/productos/catalogo-gyspot-3902"
+  },
+  {
+    "name": "GYSPOT ALU PRO FV",
+    "description": "GYSPOT ALU PRO FV, solución GYS para desabollo de carroceria auto y suv.",
+    "line": "Desabollo de carrocería auto y SUV",
+    "subline": "Reparación de abolladuras",
+    "image": "/images/products/client-catalog/gyspot-alu-pro-fv.webp",
+    "url": "/linea-de-producto/productos/catalogo-gyspot-alu-pro-fv"
+  },
+  {
+    "name": "GYSPOT ARCPULL 200 COLLISION REPAIR",
+    "description": "GYSPOT ARCPULL 200 COLLISION REPAIR, solución GYS para desabollo de carroceria auto y suv.",
+    "line": "Desabollo de carrocería auto y SUV",
+    "subline": "Reparación de abolladuras",
+    "image": "/images/products/client-catalog/gyspot-arcpull-200-collision-repair.webp",
+    "url": "/linea-de-producto/productos/catalogo-gyspot-arcpull-200-collision-repair"
+  },
+  {
+    "name": "SPEEDLINER V2 PRO 230",
+    "description": "SPEEDLINER V2 PRO 230, solución GYS para desabollo de carroceria auto y suv.",
+    "line": "Desabollo de carrocería auto y SUV",
+    "subline": "Reparación de abolladuras",
+    "image": "/images/products/client-catalog/speedliner-v2-pro-230.webp",
+    "url": "/linea-de-producto/productos/catalogo-speedliner-v2-pro-230"
+  },
+  {
+    "name": "SPEEDLINER V2 ALU PRO FV",
+    "description": "SPEEDLINER V2 ALU PRO FV, solución GYS para desabollo de carroceria auto y suv.",
+    "line": "Desabollo de carrocería auto y SUV",
+    "subline": "Reparación de abolladuras",
+    "image": "/images/products/client-catalog/speedliner-v2-alu-pro-fv.webp",
+    "url": "/linea-de-producto/productos/catalogo-speedliner-v2-alu-pro-fv"
+  },
+  {
+    "name": "DENTSTATION 39.02",
+    "description": "DENTSTATION 39.02, solución GYS para desabollo de carroceria auto y suv.",
+    "line": "Desabollo de carrocería auto y SUV",
+    "subline": "Reparación de abolladuras",
+    "image": "/images/products/client-catalog/dentstation-39-02.webp",
+    "url": "/linea-de-producto/productos/catalogo-dentstation-39-02"
+  },
+  {
+    "name": "SPEEDLINER PREMIUM V2 ARCPULL 200",
+    "description": "SPEEDLINER PREMIUM V2 ARCPULL 200, solución GYS para desabollo de carroceria auto y suv.",
+    "line": "Desabollo de carrocería auto y SUV",
+    "subline": "Reparación de abolladuras",
+    "image": "/images/products/client-catalog/speedliner-premium-v2-arcpull-200.webp",
+    "url": "/linea-de-producto/productos/catalogo-speedliner-premium-v2-arcpull-200"
+  },
+  {
+    "name": "Sistemas de traccion para enderezado",
+    "description": "Sistemas de traccion para enderezado, solución TELWIN para desabollo de carroceria auto y suv.",
+    "line": "Desabollo de carrocería auto y SUV",
+    "subline": "Sistemas de tracción para enderezado",
+    "image": "/images/products/verified/catalogo-sistemas-de-traccion-para-enderezado.webp",
+    "url": "/linea-de-producto/productos/catalogo-sistemas-de-traccion-para-enderezado"
+  },
+  {
+    "name": "GYSPOT PTI NEO COMPLETE (G1 G2 G4) - 208/240V",
+    "description": "GYSPOT PTI NEO COMPLETE (G1 G2 G4) - 208/240V, solución GYS para desabollo de carroceria auto y suv.",
+    "line": "Desabollo de carrocería auto y SUV",
+    "subline": "Soldadura por punto",
+    "image": "/images/products/client-catalog/gyspot-pti-neo-complete-g1-g2-g4-208-240v.webp",
+    "url": "/linea-de-producto/productos/catalogo-gyspot-pti-neo-complete-g1-g2-g4-208-240v"
+  },
+  {
+    "name": "GYSPOT PTI EXPERT (5M) - 208/240V",
+    "description": "GYSPOT PTI EXPERT (5M) - 208/240V, solución GYS para desabollo de carroceria auto y suv.",
+    "line": "Desabollo de carrocería auto y SUV",
+    "subline": "Soldadura por punto",
+    "image": "/images/products/client-catalog/gyspot-pti-expert-5m-208-240v.webp",
+    "url": "/linea-de-producto/productos/catalogo-gyspot-pti-expert-5m-208-240v"
+  },
+  {
+    "name": "REMACHADORA GYSPRESS PREMIUM 10T PUSH-PULL",
+    "description": "REMACHADORA GYSPRESS PREMIUM 10T PUSH-PULL, solución GYS para desabollo de carroceria auto y suv.",
+    "line": "Desabollo de carrocería auto y SUV",
+    "subline": "Remachadoras",
+    "image": "/images/products/client-catalog/remachadora-gyspress-premium-10t-push-pull.webp",
+    "url": "/linea-de-producto/productos/catalogo-remachadora-gyspress-premium-10t-push-pull"
+  },
+  {
+    "name": "SMARTMIG 162 (regulator not included)",
+    "description": "SMARTMIG 162 (regulator not included), solución GYS para desabollo de carroceria auto y suv.",
+    "line": "Desabollo de carrocería auto y SUV",
+    "subline": "Soldadoras MIG",
+    "image": "/images/products/client-catalog/smartmig-162-regulator-not-included.webp",
+    "url": "/linea-de-producto/productos/catalogo-smartmig-162-regulator-not-included"
+  },
+  {
+    "name": "CARMIG-E AUTO - WITH ACCESSORIES",
+    "description": "CARMIG-E AUTO - WITH ACCESSORIES, solución GYS para desabollo de carroceria auto y suv.",
+    "line": "Desabollo de carrocería auto y SUV",
+    "subline": "Soldadoras MIG",
+    "image": "/images/products/client-catalog/carmig-e-auto-with-accessories.webp",
+    "url": "/linea-de-producto/productos/catalogo-carmig-e-auto-with-accessories"
+  },
+  {
+    "name": "E2 GYS AUTO - WITH ACCESSORIES",
+    "description": "E2 GYS AUTO - WITH ACCESSORIES, solución GYS para desabollo de carroceria auto y suv.",
+    "line": "Desabollo de carrocería auto y SUV",
+    "subline": "Soldadoras MIG",
+    "image": "/images/products/client-catalog/e2-gys-auto-with-accessories.webp",
+    "url": "/linea-de-producto/productos/catalogo-e2-gys-auto-with-accessories"
+  },
+  {
+    "name": "E3 GYS AUTO - WITH ACCESSORIES",
+    "description": "E3 GYS AUTO - WITH ACCESSORIES, solución GYS para desabollo de carroceria auto y suv.",
+    "line": "Desabollo de carrocería auto y SUV",
+    "subline": "Soldadoras MIG",
+    "image": "/images/products/client-catalog/e3-gys-auto-with-accessories.webp",
+    "url": "/linea-de-producto/productos/catalogo-e3-gys-auto-with-accessories"
+  },
+  {
+    "name": "AUTOPULSE 220-M3 - 3 TORCHES INCLUDED",
+    "description": "AUTOPULSE 220-M3 - 3 TORCHES INCLUDED, solución GYS para desabollo de carroceria auto y suv.",
+    "line": "Desabollo de carrocería auto y SUV",
+    "subline": "Soldadoras MIG",
+    "image": "/images/products/client-catalog/autopulse-220-m3-3-torches-included.webp",
+    "url": "/linea-de-producto/productos/catalogo-autopulse-220-m3-3-torches-included"
+  },
+  {
+    "name": "EASYCUT 30 FV (WITH TORCH)",
+    "description": "EASYCUT 30 FV (WITH TORCH), solución GYS para desabollo de carroceria auto y suv.",
+    "line": "Desabollo de carrocería auto y SUV",
+    "subline": "Cortadores plasma",
+    "image": "/images/products/client-catalog/easycut-30-fv-with-torch.webp",
+    "url": "/linea-de-producto/productos/catalogo-easycut-30-fv-with-torch"
+  },
+  {
+    "name": "CUTTER 45 CT 16 - WITHOUT TORCH",
+    "description": "CUTTER 45 CT 16 - WITHOUT TORCH, solución GYS para desabollo de carroceria auto y suv.",
+    "line": "Desabollo de carrocería auto y SUV",
+    "subline": "Cortadores plasma",
+    "image": "/images/products/client-catalog/cutter-45-ct-16-without-torch.webp",
+    "url": "/linea-de-producto/productos/catalogo-cutter-45-ct-16-without-torch"
+  },
+  {
+    "name": "GYSDUCTION AUTO DENT REPAIR (Generator dent pulling inductor)",
+    "description": "GYSDUCTION AUTO DENT REPAIR (Generator dent pulling inductor), solución GYS para desabollo de carroceria auto y suv.",
+    "line": "Desabollo de carrocería auto y SUV",
+    "subline": "Inductor de calor",
+    "image": "/images/products/client-catalog/gysduction-auto-dent-repair-generator-dent-pulling-inductor.webp",
+    "url": "/linea-de-producto/productos/catalogo-gysduction-auto-dent-repair-generator-dent-pulling-inductor"
+  },
+  {
+    "name": "GYSDUCTION AUTO COMPLETE (Generator 3 inductors)",
+    "description": "GYSDUCTION AUTO COMPLETE (Generator 3 inductors), solución GYS para desabollo de carroceria auto y suv.",
+    "line": "Desabollo de carrocería auto y SUV",
+    "subline": "Inductor de calor",
+    "image": "/images/products/client-catalog/gysduction-auto-complete-generator-3-inductors.webp",
+    "url": "/linea-de-producto/productos/catalogo-gysduction-auto-complete-generator-3-inductors"
+  },
+  {
+    "name": "GYS DENTSTATION ARC PULL 200 + PRO 230",
+    "description": "Estación de reparación de abolladuras con ARC PULL 200 y PRO 230, referencia 078222.",
+    "line": "Desabollo de carrocería auto y SUV",
+    "subline": "Reparación de abolladuras",
+    "image": "/images/products/gys-dentstation-078222.jpg",
+    "url": "/linea-de-producto/productos/catalogo-gys-dentstation-arc-pull-200-pro-230"
+  },
+  {
+    "name": "Cam-Aligner",
+    "description": "Cam-Aligner, solución JOSAM para desabollo de carroceria vehiculos pesados.",
+    "line": "Desabollo de carrocería de vehículos pesados",
+    "subline": "JOSAM",
+    "image": "/images/products/client-catalog/cam-aligner.webp",
+    "url": "/linea-de-producto/productos/catalogo-cam-aligner"
+  },
+  {
+    "name": "JH1500",
+    "description": "JH1500, solución JOSAM para desabollo de carroceria vehiculos pesados.",
+    "line": "Desabollo de carrocería de vehículos pesados",
+    "subline": "JOSAM",
+    "image": "/images/products/client-catalog/jh1500.webp",
+    "url": "/linea-de-producto/productos/catalogo-jh1500"
+  },
+  {
+    "name": "MEC 600 Metal Edge Cutter",
+    "description": "MEC 600 Metal Edge Cutter, solución Wieländer+Schill para desabollo de carroceria vehiculos pesados.",
+    "line": "Desabollo de carrocería de vehículos pesados",
+    "subline": "Wieländer+Schill",
+    "image": "/images/products/client-catalog/mec-600-metal-edge-cutter.webp",
+    "url": "/linea-de-producto/productos/catalogo-mec-600-metal-edge-cutter"
+  },
+  {
+    "name": "TROLLEY IW1",
+    "description": "TROLLEY IW1, solución GYS para desabollo de carroceria vehiculos pesados.",
+    "line": "Desabollo de carrocería de vehículos pesados",
+    "subline": "GYS",
+    "image": "/images/products/client-catalog/trolley-iw1.webp",
+    "url": "/linea-de-producto/productos/catalogo-trolley-iw1"
+  },
+  {
+    "name": "PLASMA CUTTER 45 CT 32 - WITH TORCH",
+    "description": "PLASMA CUTTER 45 CT 32 - WITH TORCH, solución GYS para desabollo de carroceria vehiculos pesados.",
+    "line": "Desabollo de carrocería de vehículos pesados",
+    "subline": "GYS",
+    "image": "/images/products/client-catalog/plasma-cutter-45-ct-32-with-torch.webp",
+    "url": "/linea-de-producto/productos/catalogo-plasma-cutter-45-ct-32-with-torch"
+  },
+  {
+    "name": "SPEEDLINER EXPERT 230   ARCPULL 200",
+    "description": "SPEEDLINER EXPERT 230   ARCPULL 200, solución GYS para desabollo de carroceria vehiculos pesados.",
+    "line": "Desabollo de carrocería de vehículos pesados",
+    "subline": "GYS",
+    "image": "/images/products/client-catalog/speedliner-expert-230-arcpull-200.webp",
+    "url": "/linea-de-producto/productos/catalogo-speedliner-expert-230-arcpull-200"
+  },
+  {
+    "name": "GYSPOT EXPERT 400",
+    "description": "GYSPOT EXPERT 400, solución GYS para desabollo de carroceria vehiculos pesados.",
+    "line": "Desabollo de carrocería de vehículos pesados",
+    "subline": "GYS",
+    "image": "/images/products/client-catalog/gyspot-expert-400.webp",
+    "url": "/linea-de-producto/productos/catalogo-gyspot-expert-400"
+  },
+  {
+    "name": "GYSPOT PTI GENIUS PLUS (6m) - 208/240V",
+    "description": "GYSPOT PTI GENIUS PLUS (6m) - 208/240V, solución GYS para desabollo de carroceria vehiculos pesados.",
+    "line": "Desabollo de carrocería de vehículos pesados",
+    "subline": "GYS",
+    "image": "/images/products/client-catalog/gyspot-pti-genius-plus-6m-208-240v.webp",
+    "url": "/linea-de-producto/productos/catalogo-gyspot-pti-genius-plus-6m-208-240v"
+  },
+  {
+    "name": "Polyvance Nitro-Fuzer® Classic",
+    "description": "Soldadora de plásticos con nitrógeno y carro para reparar parachoques y componentes automotrices.",
+    "line": "Reparación de plásticos",
+    "subline": "Polyvance",
+    "image": "/images/products/polyvance-nitro-fuzer-classic.jpg",
+    "url": "/linea-de-producto/productos/catalogo-nitro-fuzer-classic-nitrogen-plastic-welder-with-cart"
+  },
+  {
+    "name": "Nitro-Fuzer Touch Nitrogen Plastic Welder - With Cart",
+    "description": "Nitro-Fuzer Touch Nitrogen Plastic Welder - With Cart, solución Polyvance para reparación de plasticos.",
+    "line": "Reparación de plásticos",
+    "subline": "Polyvance",
+    "image": "/images/products/client-catalog/nitro-fuzer-touch-nitrogen-plastic-welder-with-cart.webp",
+    "url": "/linea-de-producto/productos/catalogo-nitro-fuzer-touch-nitrogen-plastic-welder-with-cart"
+  },
+  {
+    "name": "Nitro-Fuzer Classic Nitrogen Plastic Welder - With Cart",
+    "description": "Nitro-Fuzer Classic Nitrogen Plastic Welder - With Cart, solución Polyvance para reparación de plasticos.",
+    "line": "Reparación de plásticos",
+    "subline": "Polyvance",
+    "image": "/images/products/verified/catalogo-nitro-fuzer-classic-nitrogen-plastic-welder-with-cart-2.webp",
+    "url": "/linea-de-producto/productos/catalogo-nitro-fuzer-classic-nitrogen-plastic-welder-with-cart-2"
+  },
+  {
+    "name": "Nitro-Fuzer Touch Nitrogen Plastic Welder",
+    "description": "Nitro-Fuzer Touch Nitrogen Plastic Welder, solución Polyvance para reparación de plasticos.",
+    "line": "Reparación de plásticos",
+    "subline": "Polyvance",
+    "image": "/images/products/client-catalog/nitro-fuzer-touch-nitrogen-plastic-welder.webp",
+    "url": "/linea-de-producto/productos/catalogo-nitro-fuzer-touch-nitrogen-plastic-welder"
+  },
+  {
+    "name": "Nitro-Fuzer Classic Nitrogen Plastic Welder",
+    "description": "Nitro-Fuzer Classic Nitrogen Plastic Welder, solución Polyvance para reparación de plasticos.",
+    "line": "Reparación de plásticos",
+    "subline": "Polyvance",
+    "image": "/images/products/client-catalog/nitro-fuzer-classic-nitrogen-plastic-welder.webp",
+    "url": "/linea-de-producto/productos/catalogo-nitro-fuzer-classic-nitrogen-plastic-welder"
+  },
+  {
+    "name": "GYSFLASH 101.12 CNT FV (5m Cables) * **",
+    "description": "GYSFLASH 101.12 CNT FV (5m Cables) * **, solución GYS para cargadores.",
+    "line": "Cargadores",
+    "subline": "GYSFLASH",
+    "image": "/images/products/client-catalog/gysflash-101-12-cnt-fv-5m-cables.webp",
+    "url": "/linea-de-producto/productos/catalogo-gysflash-101-12-cnt-fv-5m-cables"
+  },
+  {
+    "name": "STARTIUM 480E - 12/24 V",
+    "description": "STARTIUM 480E - 12/24 V, solución GYS para cargadores.",
+    "line": "Cargadores",
+    "subline": "STARTIUM",
+    "image": "/images/products/client-catalog/startium-480e-12-24-v.webp",
+    "url": "/linea-de-producto/productos/catalogo-startium-480e-12-24-v"
+  },
+  {
+    "name": "Comprobador de baterías  PBT 924 - compatible Start   Stop",
+    "description": "Comprobador de baterías  PBT 924 - compatible Start   Stop, solución GYS para cargadores.",
+    "line": "Probadores de baterías",
+    "subline": "GYS",
+    "image": "/images/products/client-catalog/comprobador-de-baterias-pbt-924-compatible-start-stop.webp",
+    "url": "/linea-de-producto/productos/catalogo-comprobador-de-baterias-pbt-924-compatible-start-stop"
+  },
+  {
+    "name": "Escáner de diagnóstico SUN",
+    "description": "Escáner de diagnóstico SUN, solución SUN para escáner.",
+    "line": "Escáner",
+    "subline": "SUN",
+    "image": "/images/products/verified/catalogo-scanner.webp",
+    "url": "/linea-de-producto/productos/catalogo-scanner"
+  },
+  {
+    "name": "BREEZE IV",
+    "description": "BREEZE IV, solución SUN para aire acondicionado.",
+    "line": "Aire acondicionado",
+    "subline": "SUN",
+    "image": "/images/products/verified/catalogo-breeze-iv.webp",
+    "url": "/linea-de-producto/productos/catalogo-breeze-iv"
+  },
+  {
+    "name": "BLIZZARD QTECH IV",
+    "description": "BLIZZARD QTECH IV, solución SUN para aire acondicionado.",
+    "line": "Aire acondicionado",
+    "subline": "SUN",
+    "image": "/images/products/verified/catalogo-blizzard-qtech-iv.webp",
+    "url": "/linea-de-producto/productos/catalogo-blizzard-qtech-iv"
+  },
+  {
+    "name": "82202 — Air Caulking Gun",
+    "description": "82202 — Air Caulking Gun, solución PneuTrend para neumáticas.",
+    "line": "Neumáticas",
+    "subline": "PneuTrend",
+    "image": "/images/products/client-catalog/82202-air-caulking-gun.webp",
+    "url": "/linea-de-producto/productos/catalogo-82202-air-caulking-gun"
+  },
+  {
+    "name": "82100 — Punch & Flange Tool",
+    "description": "82100 — Punch & Flange Tool, solución PneuTrend para neumáticas.",
+    "line": "Neumáticas",
+    "subline": "PneuTrend",
+    "image": "/images/products/client-catalog/82100-punch-flange-tool.webp",
+    "url": "/linea-de-producto/productos/catalogo-82100-punch-flange-tool"
+  },
+  {
+    "name": "74020 — 1/4\" Angle Die Grinder",
+    "description": "74020 — 1/4\" Angle Die Grinder, solución PneuTrend para neumáticas.",
+    "line": "Neumáticas",
+    "subline": "PneuTrend",
+    "image": "/images/products/client-catalog/74020-1-4-angle-die-grinder.webp",
+    "url": "/linea-de-producto/productos/catalogo-74020-1-4-angle-die-grinder"
+  },
+  {
+    "name": "71000 — 1/4\" Die Grinder",
+    "description": "71000 — 1/4\" Die Grinder, solución PneuTrend para neumáticas.",
+    "line": "Neumáticas",
+    "subline": "PneuTrend",
+    "image": "/images/products/client-catalog/71000-1-4-die-grinder.webp",
+    "url": "/linea-de-producto/productos/catalogo-71000-1-4-die-grinder"
+  },
+  {
+    "name": "14200B — 3/8\" Palm Ratchet Wrench",
+    "description": "14200B — 3/8\" Palm Ratchet Wrench, solución PneuTrend para neumáticas.",
+    "line": "Neumáticas",
+    "subline": "PneuTrend",
+    "image": "/images/products/client-catalog/14200b-3-8-palm-ratchet-wrench.webp",
+    "url": "/linea-de-producto/productos/catalogo-14200b-3-8-palm-ratchet-wrench"
+  },
+  {
+    "name": "80031 — Air Body Saw",
+    "description": "80031 — Air Body Saw, solución PneuTrend para neumáticas.",
+    "line": "Neumáticas",
+    "subline": "PneuTrend",
+    "image": "/images/products/client-catalog/80031-air-body-saw.webp",
+    "url": "/linea-de-producto/productos/catalogo-80031-air-body-saw"
+  },
+  {
+    "name": "80038 — Vibration Reduced Air Saw",
+    "description": "80038 — Vibration Reduced Air Saw, solución PneuTrend para neumáticas.",
+    "line": "Neumáticas",
+    "subline": "PneuTrend",
+    "image": "/images/products/client-catalog/80038-vibration-reduced-air-saw.webp",
+    "url": "/linea-de-producto/productos/catalogo-80038-vibration-reduced-air-saw"
+  },
+  {
+    "name": "55010 — Belt Sander (10 x 330 mm)",
+    "description": "55010 — Belt Sander (10 x 330 mm), solución PneuTrend para neumáticas.",
+    "line": "Neumáticas",
+    "subline": "PneuTrend",
+    "image": "/images/products/client-catalog/55010-belt-sander-10-x-330-mm.webp",
+    "url": "/linea-de-producto/productos/catalogo-55010-belt-sander-10-x-330-mm"
+  },
+  {
+    "name": "33500-1 — Air Spot Drill with Hook",
+    "description": "33500-1 — Air Spot Drill with Hook, solución PneuTrend para neumáticas.",
+    "line": "Neumáticas",
+    "subline": "PneuTrend",
+    "image": "/images/products/client-catalog/33500-1-air-spot-drill-with-hook.webp",
+    "url": "/linea-de-producto/productos/catalogo-33500-1-air-spot-drill-with-hook"
+  },
+  {
+    "name": "24238 — 1/2\" Stubby Impact Wrench (ECD)",
+    "description": "24238 — 1/2\" Stubby Impact Wrench (ECD), solución PneuTrend para neumáticas.",
+    "line": "Neumáticas",
+    "subline": "PneuTrend",
+    "image": "/images/products/client-catalog/24238-1-2-stubby-impact-wrench-ecd.webp",
+    "url": "/linea-de-producto/productos/catalogo-24238-1-2-stubby-impact-wrench-ecd"
+  },
+  {
+    "name": "B-41102HK — 190 mm Barrel Air Hammer Combo Kit (Hex. Shank)",
+    "description": "B-41102HK — 190 mm Barrel Air Hammer Combo Kit (Hex. Shank), solución PneuTrend para neumáticas.",
+    "line": "Neumáticas",
+    "subline": "PneuTrend",
+    "image": "/images/products/client-catalog/b-41102hk-190-mm-barrel-air-hammer-combo-kit-hex-shank.webp",
+    "url": "/linea-de-producto/productos/catalogo-b-41102hk-190-mm-barrel-air-hammer-combo-kit-hex-shank"
+  },
+  {
+    "name": "COFRE CILINDRO HIDRÁULICO 10T PRO",
+    "description": "COFRE CILINDRO HIDRÁULICO 10T PRO, solución GYS para eléctricas.",
+    "line": "Neumáticas",
+    "subline": "Porto Power",
+    "image": "/images/products/client-catalog/cofre-cilindro-hidraulico-10t-pro.webp",
+    "url": "/linea-de-producto/productos/catalogo-cofre-cilindro-hidraulico-10t-pro"
+  },
+  {
+    "name": "C-7DW136",
+    "description": "C-7DW136, solución Jonnesway para carritos de herramientas.",
+    "line": "Herramientas manuales",
+    "subline": "Herramientas de mecánica",
+    "image": "/images/products/client-catalog/c-7dw136.webp",
+    "url": "/linea-de-producto/productos/catalogo-c-7dw136"
+  },
+  {
+    "name": "Carrito SUN para electricos",
+    "description": "Carrito SUN para electricos, solución SUN para carritos de herramientas.",
+    "line": "Herramientas manuales",
+    "subline": "Herramientas de mecánica",
+    "image": "/images/products/verified/catalogo-carrito-sun-para-electricos.webp",
+    "url": "/linea-de-producto/productos/catalogo-carrito-sun-para-electricos"
+  },
+  {
+    "name": "Garlopas shinemate",
+    "description": "Garlopas shinemate, solución ShineMate para herramientas manuales.",
+    "line": "Herramientas manuales",
+    "subline": "Garlopas ShineMate",
+    "image": "/images/products/verified/catalogo-garlopas-shinemate.webp",
+    "url": "/linea-de-producto/productos/catalogo-garlopas-shinemate"
+  },
+  {
+    "name": "File with handle",
+    "description": "File with handle, solución Wieländer+Schill para herramientas manuales.",
+    "line": "Herramientas manuales",
+    "subline": "Limas Wieländer+Schill",
+    "image": "/images/products/client-catalog/file-with-handle.webp",
+    "url": "/linea-de-producto/productos/catalogo-file-with-handle"
+  },
+  {
+    "name": "Japanese Putty Knives",
+    "description": "Japanese Putty Knives, solución Colad para herramientas manuales.",
+    "line": "Herramientas manuales",
+    "subline": "Cuñas Colad",
+    "image": "/images/products/client-catalog/japanese-putty-knives.webp",
+    "url": "/linea-de-producto/productos/catalogo-japanese-putty-knives"
+  },
+  {
+    "name": "Plastic Spreader",
+    "description": "Plastic Spreader, solución Colad para herramientas manuales.",
+    "line": "Herramientas manuales",
+    "subline": "Cuñas Colad",
+    "image": "/images/products/client-catalog/plastic-spreader.webp",
+    "url": "/linea-de-producto/productos/catalogo-plastic-spreader"
+  },
+  {
+    "name": "Orbital Polisher EB351-5/15-ShineMate Global",
+    "description": "Orbital Polisher EB351-5/15-ShineMate Global, solución ShineMate para pulidoras.",
+    "line": "Pulidoras",
+    "subline": "ShineMate",
+    "image": "/images/products/verified/catalogo-orbital-polisher-eb351-5-15-shinemate-global.webp",
+    "url": "/linea-de-producto/productos/catalogo-orbital-polisher-eb351-5-15-shinemate-global"
+  },
+  {
+    "name": "Rotary Polisher EP802-ShineMate Global",
+    "description": "Rotary Polisher EP802-ShineMate Global, solución ShineMate para pulidoras.",
+    "line": "Pulidoras",
+    "subline": "ShineMate",
+    "image": "/images/products/verified/catalogo-rotary-polisher-ep802-shinemate-global.webp",
+    "url": "/linea-de-producto/productos/catalogo-rotary-polisher-ep802-shinemate-global"
+  },
+  {
+    "name": "Orbital Polisher EX603-ShineMate Global",
+    "description": "Orbital Polisher EX603-ShineMate Global, solución ShineMate para pulidoras.",
+    "line": "Pulidoras",
+    "subline": "ShineMate",
+    "image": "/images/products/verified/catalogo-orbital-polisher-ex603-shinemate-global.webp",
+    "url": "/linea-de-producto/productos/catalogo-orbital-polisher-ex603-shinemate-global"
+  },
+  {
+    "name": "Orbital Polisher EB350-5/9-ShineMate Global",
+    "description": "Orbital Polisher EB350-5/9-ShineMate Global, solución ShineMate para pulidoras.",
+    "line": "Pulidoras",
+    "subline": "ShineMate",
+    "image": "/images/products/verified/catalogo-orbital-polisher-eb350-5-9-shinemate-global.webp",
+    "url": "/linea-de-producto/productos/catalogo-orbital-polisher-eb350-5-9-shinemate-global"
+  },
+  {
+    "name": "MINI PULIDORA ORBITAL NEUMATICA ALETORIA LHR75",
+    "description": "MINI PULIDORA ORBITAL NEUMATICA ALETORIA LHR75, solución RUPES para pulidoras.",
+    "line": "Pulidoras",
+    "subline": "RUPES",
+    "image": "/images/products/client-catalog/mini-pulidora-orbital-neumatica-aletoria-lhr75.webp",
+    "url": "/linea-de-producto/productos/catalogo-mini-pulidora-orbital-neumatica-aletoria-lhr75"
+  },
+  {
+    "name": "PULIDORA ORBITAL ALETORIA - Bigfoot LHR21 Mark III",
+    "description": "PULIDORA ORBITAL ALETORIA - Bigfoot LHR21 Mark III, solución RUPES para pulidoras.",
+    "line": "Pulidoras",
+    "subline": "RUPES",
+    "image": "/images/products/verified/catalogo-pulidora-orbital-aletoria-bigfoot-lhr21-mark-iii.webp",
+    "url": "/linea-de-producto/productos/catalogo-pulidora-orbital-aletoria-bigfoot-lhr21-mark-iii"
+  },
+  {
+    "name": "Pulidora orbital aleatoria BigFoot LHR15 Mark V",
+    "description": "Pulidora orbital aleatoria BigFoot LHR15 Mark V, solución RUPES para pulidoras.",
+    "line": "Pulidoras",
+    "subline": "RUPES",
+    "image": "/images/products/verified/catalogo-pulidora-orbital-aleatoria-bigfoot-lhr15-mark-v.webp",
+    "url": "/linea-de-producto/productos/catalogo-pulidora-orbital-aleatoria-bigfoot-lhr15-mark-v"
+  },
+  {
+    "name": "Diamond Foam Pad T120-ShineMate Global",
+    "description": "Diamond Foam Pad T120-ShineMate Global, solución ShineMate para pulidoras.",
+    "line": "Pulidoras",
+    "subline": "Borlas ShineMate",
+    "image": "/images/products/verified/catalogo-diamond-foam-pad-t120-shinemate-global.webp",
+    "url": "/linea-de-producto/productos/catalogo-diamond-foam-pad-t120-shinemate-global"
+  },
+  {
+    "name": "Diamond Foam Pad T10",
+    "description": "Diamond Foam Pad T10, solución ShineMate para pulidoras.",
+    "line": "Pulidoras",
+    "subline": "Borlas ShineMate",
+    "image": "/images/products/verified/catalogo-diamond-foam-pad-t10.webp",
+    "url": "/linea-de-producto/productos/catalogo-diamond-foam-pad-t10"
+  },
+  {
+    "name": "Flat-face Foam Pad T120-ShineMate Global",
+    "description": "Flat-face Foam Pad T120-ShineMate Global, solución ShineMate para pulidoras.",
+    "line": "Pulidoras",
+    "subline": "Borlas ShineMate",
+    "image": "/images/products/verified/catalogo-flat-face-foam-pad-t120-shinemate-global.webp",
+    "url": "/linea-de-producto/productos/catalogo-flat-face-foam-pad-t120-shinemate-global"
+  },
+  {
+    "name": "Flat-face Foam Pad T80-ShineMate Global",
+    "description": "Flat-face Foam Pad T80-ShineMate Global, solución ShineMate para pulidoras.",
+    "line": "Pulidoras",
+    "subline": "Borlas ShineMate",
+    "image": "/images/products/verified/catalogo-flat-face-foam-pad-t80-shinemate-global.webp",
+    "url": "/linea-de-producto/productos/catalogo-flat-face-foam-pad-t80-shinemate-global"
+  },
+  {
+    "name": "Flat-face Foam Pad T10-ShineMate Global",
+    "description": "Flat-face Foam Pad T10-ShineMate Global, solución ShineMate para pulidoras.",
+    "line": "Pulidoras",
+    "subline": "Borlas ShineMate",
+    "image": "/images/products/verified/catalogo-flat-face-foam-pad-t10-shinemate-global.webp",
+    "url": "/linea-de-producto/productos/catalogo-flat-face-foam-pad-t10-shinemate-global"
+  },
+  {
+    "name": "Heavy-Cut Wool Pad T160-ShineMate Global",
+    "description": "Heavy-Cut Wool Pad T160-ShineMate Global, solución ShineMate para pulidoras.",
+    "line": "Pulidoras",
+    "subline": "Borlas ShineMate",
+    "image": "/images/products/verified/catalogo-heavy-cut-wool-pad-t160-shinemate-global.webp",
+    "url": "/linea-de-producto/productos/catalogo-heavy-cut-wool-pad-t160-shinemate-global"
+  },
+  {
+    "name": "Heavy-Cut Wool Pad T140-ShineMate Global",
+    "description": "Heavy-Cut Wool Pad T140-ShineMate Global, solución ShineMate para pulidoras.",
+    "line": "Pulidoras",
+    "subline": "Borlas ShineMate",
+    "image": "/images/products/verified/catalogo-heavy-cut-wool-pad-t140-shinemate-global.webp",
+    "url": "/linea-de-producto/productos/catalogo-heavy-cut-wool-pad-t140-shinemate-global"
+  },
+  {
+    "name": "D-A COARSE Wool Polishing Pad",
+    "description": "D-A COARSE Wool Polishing Pad, solución RUPES para pulidoras.",
+    "line": "Pulidoras",
+    "subline": "Borlas RUPES",
+    "image": "/images/products/verified/catalogo-d-a-coarse-wool-polishing-pad.webp",
+    "url": "/linea-de-producto/productos/catalogo-d-a-coarse-wool-polishing-pad"
+  },
+  {
+    "name": "SMARTFIX Double-Sided Fine Foam Pad",
+    "description": "SMARTFIX Double-Sided Fine Foam Pad, solución RUPES para pulidoras.",
+    "line": "Pulidoras",
+    "subline": "Borlas RUPES",
+    "image": "/images/products/verified/catalogo-smartfix-double-sided-fine-foam-pad.webp",
+    "url": "/linea-de-producto/productos/catalogo-smartfix-double-sided-fine-foam-pad"
+  },
+  {
+    "name": "SMARTFIX Double-Sided Coarse Foam Pad",
+    "description": "SMARTFIX Double-Sided Coarse Foam Pad, solución RUPES para pulidoras.",
+    "line": "Pulidoras",
+    "subline": "Borlas RUPES",
+    "image": "/images/products/verified/catalogo-smartfix-double-sided-coarse-foam-pad.webp",
+    "url": "/linea-de-producto/productos/catalogo-smartfix-double-sided-coarse-foam-pad"
+  },
+  {
+    "name": "D-A FINE Finishing Foam Pad",
+    "description": "D-A FINE Finishing Foam Pad, solución RUPES para pulidoras.",
+    "line": "Pulidoras",
+    "subline": "Borlas RUPES",
+    "image": "/images/products/verified/catalogo-d-a-fine-finishing-foam-pad.webp",
+    "url": "/linea-de-producto/productos/catalogo-d-a-fine-finishing-foam-pad"
+  },
+  {
+    "name": "SATA jet X",
+    "description": "Pistola premium para repintado automotriz con tecnología de boquilla X.",
+    "line": "Pistolas para pintar",
+    "subline": "Pistolas de gravedad",
+    "image": "/images/products/sata/jet-x/1200394-main.webp",
+    "url": "/linea-de-producto/productos/sata-jet-x"
+  },
+  {
+    "name": "SATAjet X 5500",
+    "description": "SATAjet X 5500 - producto SATA para pistolas con vaso de gravedad.",
+    "line": "Pistolas para pintar",
+    "subline": "Pistolas de gravedad",
+    "image": "/images/products/sata/imported/satajet-x-5500.webp",
+    "url": "/linea-de-producto/productos/satajet-x-5500"
+  },
+  {
+    "name": "SATAjet 1000 B",
+    "description": "SATAjet 1000 B - producto SATA para pistolas con vaso de gravedad.",
+    "line": "Pistolas para pintar",
+    "subline": "Pistolas de gravedad",
+    "image": "/images/products/sata/imported/satajet-1000-b.webp",
+    "url": "/linea-de-producto/productos/satajet-1000-b"
+  },
+  {
+    "name": "SATAjet 100 B",
+    "description": "SATAjet 100 B - producto SATA para pistolas con vaso de gravedad.",
+    "line": "Pistolas para pintar",
+    "subline": "Pistolas de gravedad",
+    "image": "/images/products/sata/imported/satajet-100-b.webp",
+    "url": "/linea-de-producto/productos/satajet-100-b"
+  },
+  {
+    "name": "SATAminijet 4400 B",
+    "description": "SATAminijet 4400 B - producto SATA para pistolas con vaso de gravedad.",
+    "line": "Pistolas para pintar",
+    "subline": "Pistolas de gravedad",
+    "image": "/images/products/sata/imported/sataminijet-4400-b.webp",
+    "url": "/linea-de-producto/productos/sataminijet-4400-b"
+  },
+  {
+    "name": "SATAjet X 5500 PHASER",
+    "description": "SATAjet X 5500 PHASER - producto SATA para pistolas con vaso de gravedad.",
+    "line": "Pistolas para pintar",
+    "subline": "Pistolas de gravedad",
+    "image": "/images/products/sata/imported/satajet-x-5500-phaser.webp",
+    "url": "/linea-de-producto/productos/satajet-x-5500-phaser"
+  },
+  {
+    "name": "SATAjet 5000 B",
+    "description": "SATAjet 5000 B - producto SATA para pistolas con vaso de gravedad.",
+    "line": "Pistolas para pintar",
+    "subline": "Pistolas de gravedad",
+    "image": "/images/products/sata/imported/satajet-5000-b.webp",
+    "url": "/linea-de-producto/productos/satajet-5000-b"
+  },
+  {
+    "name": "SATAjet 20 B",
+    "description": "SATAjet 20 B - producto SATA para pistolas con vaso de gravedad.",
+    "line": "Pistolas para pintar",
+    "subline": "Pistolas de gravedad",
+    "image": "/images/products/sata/imported/satajet-20-b.webp",
+    "url": "/linea-de-producto/productos/satajet-20-b"
+  },
+  {
+    "name": "SATAjet 1000 B Lignum 3",
+    "description": "SATAjet 1000 B Lignum 3 - producto SATA para pistolas con vaso de gravedad.",
+    "line": "Pistolas para pintar",
+    "subline": "Pistolas de gravedad",
+    "image": "/images/products/sata/imported/satajet-1000-b-lignum-3.webp",
+    "url": "/linea-de-producto/productos/satajet-1000-b-lignum-3"
+  },
+  {
+    "name": "SATA spray master RP",
+    "description": "SATA spray master RP - producto SATA para pistolas con vaso de gravedad.",
+    "line": "Pistolas para pintar",
+    "subline": "Pistolas de gravedad",
+    "image": "/images/products/sata/imported/sata-spray-master-rp.webp",
+    "url": "/linea-de-producto/productos/sata-spray-master-rp"
+  },
+  {
+    "name": "SATAjet 1500 B",
+    "description": "SATAjet 1500 B - producto SATA para pistolas con vaso de gravedad.",
+    "line": "Pistolas para pintar",
+    "subline": "Pistolas de gravedad",
+    "image": "/images/products/verified/satajet-1500-b.webp",
+    "url": "/linea-de-producto/productos/satajet-1500-b"
+  },
+  {
+    "name": "SATAjet 3000 B",
+    "description": "SATAjet 3000 B - producto SATA para pistolas con vaso de gravedad.",
+    "line": "Pistolas para pintar",
+    "subline": "Pistolas de gravedad",
+    "image": "/images/products/verified/satajet-3000-b.webp",
+    "url": "/linea-de-producto/productos/satajet-3000-b"
+  },
+  {
+    "name": "jet K",
+    "description": "jet K - producto SATA para pistolas con calderin.",
+    "line": "Pistolas para pintar",
+    "subline": "Pistolas de olla de presión",
+    "image": "/images/products/sata/imported/jet-k.webp",
+    "url": "/linea-de-producto/productos/jet-k"
+  },
+  {
+    "name": "SATAjet 1000 K",
+    "description": "SATAjet 1000 K - producto SATA para pistolas con calderin.",
+    "line": "Pistolas para pintar",
+    "subline": "Pistolas de olla de presión",
+    "image": "/images/products/sata/imported/satajet-1000-k.webp",
+    "url": "/linea-de-producto/productos/satajet-1000-k"
+  },
+  {
+    "name": "SATAjet 3000 K",
+    "description": "SATAjet 3000 K - producto SATA para pistolas con calderin.",
+    "line": "Pistolas para pintar",
+    "subline": "Pistolas de olla de presión",
+    "image": "/images/products/sata/imported/satajet-3000-k.webp",
+    "url": "/linea-de-producto/productos/satajet-3000-k"
+  },
+  {
+    "name": "SATAminijet 1000 K",
+    "description": "SATAminijet 1000 K - producto SATA para pistolas con calderin.",
+    "line": "Pistolas para pintar",
+    "subline": "Pistolas de olla de presión",
+    "image": "/images/products/sata/imported/sataminijet-1000-k.webp",
+    "url": "/linea-de-producto/productos/sataminijet-1000-k"
+  },
+  {
+    "name": "SATAjet K 1800 spray mix",
+    "description": "SATAjet K 1800 spray mix - producto SATA para pistolas con calderin.",
+    "line": "Pistolas para pintar",
+    "subline": "Pistolas de olla de presión",
+    "image": "/images/products/sata/imported/satajet-k-1800-spray-mix.webp",
+    "url": "/linea-de-producto/productos/satajet-k-1800-spray-mix"
+  },
+  {
+    "name": "SATAjet 3000 K spray mix",
+    "description": "SATAjet 3000 K spray mix - producto SATA para pistolas con calderin.",
+    "line": "Pistolas para pintar",
+    "subline": "Pistolas de olla de presión",
+    "image": "/images/products/sata/imported/satajet-3000-k-spray-mix.webp",
+    "url": "/linea-de-producto/productos/satajet-3000-k-spray-mix"
+  },
+  {
+    "name": "SATAjet 1000 KK",
+    "description": "SATAjet 1000 KK - producto SATA para pistolas con calderin.",
+    "line": "Pistolas para pintar",
+    "subline": "Pistolas de olla de presión",
+    "image": "/images/products/sata/imported/satajet-1000-kk.webp",
+    "url": "/linea-de-producto/productos/satajet-1000-kk"
+  },
+  {
+    "name": "SATAgraph 4",
+    "description": "SATAgraph 4 - producto SATA para pistolas aerograficas.",
+    "line": "Pistolas para pintar",
+    "subline": "Pistolas aerográficas",
+    "image": "/images/products/sata/imported/satagraph-4.webp",
+    "url": "/linea-de-producto/productos/satagraph-4"
+  },
+  {
+    "name": "SATAjet H",
+    "description": "SATAjet H - producto SATA para pistolas de vaso inferior.",
+    "line": "Pistolas para pintar",
+    "subline": "Pistolas de vaso inferior",
+    "image": "/images/products/sata/imported/satajet-h.webp",
+    "url": "/linea-de-producto/productos/satajet-h"
+  },
+  {
+    "name": "SATAjet 1000 H",
+    "description": "SATAjet 1000 H - producto SATA para pistolas de vaso inferior.",
+    "line": "Pistolas para pintar",
+    "subline": "Pistolas de vaso inferior",
+    "image": "/images/products/sata/imported/satajet-1000-h.webp",
+    "url": "/linea-de-producto/productos/satajet-1000-h"
+  },
+  {
+    "name": "SATAminijet 1000 H",
+    "description": "SATAminijet 1000 H - producto SATA para pistolas de vaso inferior.",
+    "line": "Pistolas para pintar",
+    "subline": "Pistolas de vaso inferior",
+    "image": "/images/products/verified/sataminijet-1000-h.webp",
+    "url": "/linea-de-producto/productos/sataminijet-1000-h"
+  },
+  {
+    "name": "SATAjet 3000 A",
+    "description": "SATAjet 3000 A - producto SATA para pistolas roboticas.",
+    "line": "Pistolas para pintar",
+    "subline": "Pistolas para robot",
+    "image": "/images/products/sata/imported/satajet-3000-a.webp",
+    "url": "/linea-de-producto/productos/satajet-3000-a"
+  },
+  {
+    "name": "SATAjet 3000 ROB",
+    "description": "SATAjet 3000 ROB - producto SATA para pistolas roboticas.",
+    "line": "Pistolas para pintar",
+    "subline": "Pistolas para robot",
+    "image": "/images/products/sata/imported/satajet-3000-rob.webp",
+    "url": "/linea-de-producto/productos/satajet-3000-rob"
+  },
+  {
+    "name": "SATAjet 5000 LAB",
+    "description": "SATAjet 5000 LAB - producto SATA para pistolas roboticas.",
+    "line": "Pistolas para pintar",
+    "subline": "Pistolas para robot",
+    "image": "/images/products/sata/imported/satajet-5000-lab.webp",
+    "url": "/linea-de-producto/productos/satajet-5000-lab"
+  },
+  {
+    "name": "SATAminijet 1000 A S",
+    "description": "SATAminijet 1000 A S - producto SATA para pistolas roboticas.",
+    "line": "Pistolas para pintar",
+    "subline": "Pistolas para robot",
+    "image": "/images/products/sata/imported/sataminijet-1000-a-s.webp",
+    "url": "/linea-de-producto/productos/sataminijet-1000-a-s"
+  },
+  {
+    "name": "SATAjet 1000 A",
+    "description": "SATAjet 1000 A - producto SATA para pistolas roboticas.",
+    "line": "Pistolas para pintar",
+    "subline": "Pistolas para robot",
+    "image": "/images/products/sata/imported/satajet-1000-a.webp",
+    "url": "/linea-de-producto/productos/satajet-1000-a"
+  },
+  {
+    "name": "SATAminijet 1000 ROB",
+    "description": "SATAminijet 1000 ROB - producto SATA para pistolas roboticas.",
+    "line": "Pistolas para pintar",
+    "subline": "Pistolas para robot",
+    "image": "/images/products/sata/imported/sataminijet-1000-rob.webp",
+    "url": "/linea-de-producto/productos/sataminijet-1000-rob"
+  },
+  {
+    "name": "SATAminijet 1000 A",
+    "description": "SATAminijet 1000 A - producto SATA para pistolas roboticas.",
+    "line": "Pistolas para pintar",
+    "subline": "Pistolas para robot",
+    "image": "/images/products/sata/imported/sataminijet-1000-a.webp",
+    "url": "/linea-de-producto/productos/sataminijet-1000-a"
+  },
+  {
+    "name": "Düsensatz SATAjet 3000 LAB ROB",
+    "description": "Düsensatz SATAjet 3000 LAB ROB - producto SATA para pistolas roboticas.",
+    "line": "Pistolas para pintar",
+    "subline": "Pistolas para robot",
+    "image": "/images/products/sata/imported/d-sensatz-satajet-3000-lab-rob.webp",
+    "url": "/linea-de-producto/productos/d-sensatz-satajet-3000-lab-rob"
+  },
+  {
+    "name": "SATAjet 1000 ROB",
+    "description": "SATAjet 1000 ROB - producto SATA para pistolas roboticas.",
+    "line": "Pistolas para pintar",
+    "subline": "Pistolas para robot",
+    "image": "/images/products/sata/imported/satajet-1000-rob.webp",
+    "url": "/linea-de-producto/productos/satajet-1000-rob"
+  },
+  {
+    "name": "SATAminijet 3000 LAB",
+    "description": "SATAminijet 3000 LAB - producto SATA para pistolas roboticas.",
+    "line": "Pistolas para pintar",
+    "subline": "Pistolas para robot",
+    "image": "/images/products/sata/imported/sataminijet-3000-lab.webp",
+    "url": "/linea-de-producto/productos/sataminijet-3000-lab"
+  },
+  {
+    "name": "SATAjet 4000 LAB",
+    "description": "SATAjet 4000 LAB - producto SATA para pistolas roboticas.",
+    "line": "Pistolas para pintar",
+    "subline": "Pistolas para robot",
+    "image": "/images/products/sata/imported/satajet-4000-lab.webp",
+    "url": "/linea-de-producto/productos/satajet-4000-lab"
+  },
+  {
+    "name": "SATA LP-S 2000",
+    "description": "SATA LP-S 2000 - producto SATA para pistolas roboticas.",
+    "line": "Pistolas para pintar",
+    "subline": "Pistolas para robot",
+    "image": "/images/products/sata/imported/sata-lp-s-2000.webp",
+    "url": "/linea-de-producto/productos/sata-lp-s-2000"
+  },
+  {
+    "name": "SATAjet 3000 LAB",
+    "description": "SATAjet 3000 LAB - producto SATA para pistolas roboticas.",
+    "line": "Pistolas para pintar",
+    "subline": "Pistolas para robot",
+    "image": "/images/products/verified/satajet-3000-lab.webp",
+    "url": "/linea-de-producto/productos/satajet-3000-lab"
+  },
+  {
+    "name": "SATA LP90",
+    "description": "SATA LP90 - producto SATA para pistolas roboticas.",
+    "line": "Pistolas para pintar",
+    "subline": "Pistolas para robot",
+    "image": "/images/products/sata/imported/sata-lp90.webp",
+    "url": "/linea-de-producto/productos/sata-lp90"
+  },
+  {
+    "name": "RPS - the Original",
+    "description": "RPS - the Original - producto SATA para sistemas de deposito.",
+    "line": "Accesorios pistolas",
+    "subline": "Sistemas de depósito",
+    "image": "/images/products/sata/imported/rps-the-original.webp",
+    "url": "/linea-de-producto/productos/rps-the-original"
+  },
+  {
+    "name": "LCS - the Liner",
+    "description": "LCS - the Liner - producto SATA para sistemas de deposito.",
+    "line": "Accesorios pistolas",
+    "subline": "Sistemas de depósito",
+    "image": "/images/products/sata/imported/lcs-the-liner.webp",
+    "url": "/linea-de-producto/productos/lcs-the-liner"
+  },
+  {
+    "name": "Vaso de flujo de plástico reutilizable",
+    "description": "Vaso de flujo de plástico reutilizable - producto SATA para sistemas de deposito.",
+    "line": "Accesorios pistolas",
+    "subline": "Sistemas de depósito",
+    "image": "/images/products/sata/imported/vaso-de-flujo-de-plastico-reutilizable.webp",
+    "url": "/linea-de-producto/productos/vaso-de-flujo-de-plastico-reutilizable"
+  },
+  {
+    "name": "Vaso de flujo de aluminio reutilizable",
+    "description": "Vaso de flujo de aluminio reutilizable - producto SATA para sistemas de deposito.",
+    "line": "Accesorios pistolas",
+    "subline": "Sistemas de depósito",
+    "image": "/images/products/sata/imported/vaso-de-flujo-de-aluminio-reutilizable.webp",
+    "url": "/linea-de-producto/productos/vaso-de-flujo-de-aluminio-reutilizable"
+  },
+  {
+    "name": "SATA BVD",
+    "description": "SATA BVD - producto SATA para sistemas de deposito.",
+    "line": "Accesorios pistolas",
+    "subline": "Sistemas de depósito",
+    "image": "/images/products/sata/imported/sata-bvd.webp",
+    "url": "/linea-de-producto/productos/sata-bvd"
+  },
+  {
+    "name": "Depósito agitador SATA",
+    "description": "Depósito agitador SATA - producto SATA para sistemas de deposito.",
+    "line": "Accesorios pistolas",
+    "subline": "Sistemas de depósito",
+    "image": "/images/products/sata/imported/deposito-agitador-sata.webp",
+    "url": "/linea-de-producto/productos/deposito-agitador-sata"
+  },
+  {
+    "name": "Vasos colgantes de vidrio reutilizables",
+    "description": "Vasos colgantes de vidrio reutilizables - producto SATA para sistemas de deposito.",
+    "line": "Accesorios pistolas",
+    "subline": "Sistemas de depósito",
+    "image": "/images/products/sata/imported/vasos-colgantes-de-vidrio-reutilizables.webp",
+    "url": "/linea-de-producto/productos/vasos-colgantes-de-vidrio-reutilizables"
+  },
+  {
+    "name": "Airbrushbecher",
+    "description": "Airbrushbecher - producto SATA para sistemas de deposito.",
+    "line": "Accesorios pistolas",
+    "subline": "Sistemas de depósito",
+    "image": "/images/products/sata/imported/airbrushbecher.webp",
+    "url": "/linea-de-producto/productos/airbrushbecher"
+  },
+  {
+    "name": "Tazas colgantes de aluminio reutilizables",
+    "description": "Tazas colgantes de aluminio reutilizables - producto SATA para sistemas de deposito.",
+    "line": "Accesorios pistolas",
+    "subline": "Sistemas de depósito",
+    "image": "/images/products/sata/imported/tazas-colgantes-de-aluminio-reutilizables.webp",
+    "url": "/linea-de-producto/productos/tazas-colgantes-de-aluminio-reutilizables"
+  },
+  {
+    "name": "Vasos colgantes de plástico reutilizables",
+    "description": "Vasos colgantes de plástico reutilizables - producto SATA para sistemas de deposito.",
+    "line": "Accesorios pistolas",
+    "subline": "Sistemas de depósito",
+    "image": "/images/products/sata/imported/vasos-colgantes-de-plastico-reutilizables.webp",
+    "url": "/linea-de-producto/productos/vasos-colgantes-de-plastico-reutilizables"
+  },
+  {
+    "name": "Drester Classic 1050",
+    "description": "Lavadora manual compacta para pistolas de gravedad que trabajan con pintura base agua.",
+    "line": "Accesorios pistolas",
+    "subline": "Lavadoras de pistola",
+    "image": "/images/products/client-catalog/drester-classic-1050.webp",
+    "url": "/linea-de-producto/productos/catalogo-drester-classic-1050"
+  },
+  {
+    "name": "Drester Classic 3600",
+    "description": "Lavadora para pistolas con solvente, con ciclo automático y enjuague manual.",
+    "line": "Accesorios pistolas",
+    "subline": "Lavadoras de pistola",
+    "image": "/images/products/client-catalog/drester-classic-3600.webp",
+    "url": "/linea-de-producto/productos/catalogo-drester-classic-3600"
+  },
+  {
+    "name": "SATA air vision 5000",
+    "description": "Casco SATA air vision 5000 n | Casco SATA air vision 5000 n | 1000249",
+    "line": "Protección respiratoria",
+    "subline": "SATA air vision 5000",
+    "image": "/images/products/sata/imported/sata-air-vision-5000.webp",
+    "url": "/linea-de-producto/productos/sata-air-vision-5000"
+  },
+  {
+    "name": "SATA air star F 2.0",
+    "description": "Mascarilla ergonómica y ligera SATA air star F 2.0 con filtro especial A2:P3 RD para trabajos de pintura de corta duración. | 1173252",
+    "line": "Protección respiratoria",
+    "subline": "Air star F 2.0",
+    "image": "/images/products/sata/imported/sata-air-star-f-2-0.webp",
+    "url": "/linea-de-producto/productos/sata-air-star-f-2-0"
+  },
+  {
+    "name": "SATA air star C",
+    "description": "Juego de protección respiratoria SATA: SATA air star C n y cinturón con pieza T y válvula reguladora de aire, versión sin unidad de cinturón de carbón activado | Juego de protección respiratoria SATA: SATA air star C n y cinturón con pieza T y válvula reguladora de aire, versión sin unidad de cinturón de carbón activado | 137570",
+    "line": "Protección respiratoria",
+    "subline": "Air star C",
+    "image": "/images/products/sata/imported/sata-air-star-c.webp",
+    "url": "/linea-de-producto/productos/sata-air-star-c"
+  },
+  {
+    "name": "SATA air star F",
+    "description": "SATA air star F con filtro especial A2:P3 R D, 2 soportes para prefiltros y 10 prefiltros | SATA air star F con filtro especial A2:P3 R D, 2 soportes para prefiltros y 10 prefiltros | 134353",
+    "line": "Protección respiratoria",
+    "subline": "Air star F",
+    "image": "/images/products/verified/sata-air-star-f.webp",
+    "url": "/linea-de-producto/productos/sata-air-star-f"
+  },
+  {
+    "name": "SATA filter serie 400",
+    "description": "SATA filter serie 400 - producto SATA para tecnologia de filtros.",
+    "line": "Tecnología de filtros y aire comprimido",
+    "subline": "Filtros SATA",
+    "image": "/images/products/sata/imported/sata-filter-serie-400.webp",
+    "url": "/linea-de-producto/productos/sata-filter-serie-400"
+  },
+  {
+    "name": "SATA filter serie 100",
+    "description": "SATA filter serie 100 - producto SATA para tecnologia de filtros.",
+    "line": "Tecnología de filtros y aire comprimido",
+    "subline": "Filtros SATA",
+    "image": "/images/products/sata/imported/sata-filter-serie-100.webp",
+    "url": "/linea-de-producto/productos/sata-filter-serie-100"
+  },
+  {
+    "name": "Filtro SATA serie 500",
+    "description": "Filtro SATA serie 500 - producto SATA para tecnologia de filtros.",
+    "line": "Tecnología de filtros y aire comprimido",
+    "subline": "Filtros SATA",
+    "image": "/images/products/sata/imported/filtro-sata-serie-500.webp",
+    "url": "/linea-de-producto/productos/filtro-sata-serie-500"
+  },
+  {
+    "name": "SATA filter serie 200",
+    "description": "SATA filter serie 200 - producto SATA para tecnologia de filtros.",
+    "line": "Tecnología de filtros y aire comprimido",
+    "subline": "Filtros SATA",
+    "image": "/images/products/sata/imported/sata-filter-serie-200.webp",
+    "url": "/linea-de-producto/productos/sata-filter-serie-200"
+  },
+  {
+    "name": "Plenum",
+    "description": "Plenum, solución Speritex para tecnología de filtros y aire comprimido.",
+    "line": "Tecnología de filtros y aire comprimido",
+    "subline": "Filtros para cabina",
+    "image": "/images/products/verified/catalogo-plenum.webp",
+    "url": "/linea-de-producto/productos/catalogo-plenum"
+  },
+  {
+    "name": "Filtro de cabina tipo bolsa",
+    "description": "Filtro de cabina tipo bolsa, solución Etapel para tecnología de filtros y aire comprimido.",
+    "line": "Tecnología de filtros y aire comprimido",
+    "subline": "Filtros para cabina",
+    "image": "/images/products/verified/catalogo-bolsa.webp",
+    "url": "/linea-de-producto/productos/catalogo-bolsa"
+  },
+  {
+    "name": "Filtro de piso para cabina",
+    "description": "Filtro de piso para cabina, solución Etapel para tecnología de filtros y aire comprimido.",
+    "line": "Tecnología de filtros y aire comprimido",
+    "subline": "Filtros para cabina",
+    "image": "/images/products/verified/catalogo-piso.webp",
+    "url": "/linea-de-producto/productos/catalogo-piso"
+  },
+  {
+    "name": "Tecnologia de filtros y aire comprimido — Prevost",
+    "description": "Tecnologia de filtros y aire comprimido — Prevost, solución Prevost para tecnología de filtros y aire comprimido.",
+    "line": "Tecnología de filtros y aire comprimido",
+    "subline": "Prevost",
+    "image": "/images/products/verified/catalogo-tecnologia-de-filtros-y-aire-comprimido-prevost.webp",
+    "url": "/linea-de-producto/productos/catalogo-tecnologia-de-filtros-y-aire-comprimido-prevost"
+  },
+  {
+    "name": "Deltron® NXT",
+    "description": "Deltron® NXT, solución PPG para ppg automotriz.",
+    "line": "PPG automotriz",
+    "subline": "Deltron",
+    "image": "/images/products/verified/catalogo-deltron-nxt.webp",
+    "url": "/linea-de-producto/productos/catalogo-deltron-nxt"
+  },
+  {
+    "name": "AUTOLUX",
+    "description": "AUTOLUX, solución PPG para ppg automotriz.",
+    "line": "PPG automotriz",
+    "subline": "Autolux",
+    "image": "/images/products/verified/catalogo-autolux.webp",
+    "url": "/linea-de-producto/productos/catalogo-autolux"
+  },
+  {
+    "name": "Envirobase® High Performance",
+    "description": "Envirobase® High Performance, solución PPG para ppg automotriz.",
+    "line": "PPG automotriz",
+    "subline": "Envirobase",
+    "image": "/images/products/client-catalog/envirobase-high-performance.webp",
+    "url": "/linea-de-producto/productos/catalogo-envirobase-high-performance"
+  },
+  {
+    "name": "PPG Versolon™",
+    "description": "PPG Versolon™, solución PPG para ppg industrial.",
+    "line": "PPG industrial",
+    "subline": "Versolon",
+    "image": "/images/products/client-catalog/ppg-versolontm.webp",
+    "url": "/linea-de-producto/productos/catalogo-ppg-versolontm"
+  },
+  {
+    "name": "Envirocron Extreme Protection Edge Plus",
+    "description": "Envirocron Extreme Protection Edge Plus, solución PPG para pintura en polvo.",
+    "line": "Pintura en polvo",
+    "subline": "PPG",
+    "image": "/images/products/verified/catalogo-envirocron-extreme-protection-edge-plus.webp",
+    "url": "/linea-de-producto/productos/catalogo-envirocron-extreme-protection-edge-plus"
+  },
+  {
+    "name": "Envirocron® High Transfer Efficiency (HTE) Powder",
+    "description": "Envirocron® High Transfer Efficiency (HTE) Powder, solución PPG para pintura en polvo.",
+    "line": "Pintura en polvo",
+    "subline": "PPG",
+    "image": "/images/products/client-catalog/envirocron-high-transfer-efficiency-hte-powder.webp",
+    "url": "/linea-de-producto/productos/catalogo-envirocron-high-transfer-efficiency-hte-powder"
+  },
+  {
+    "name": "Coraflon® Platinum Powder Coating",
+    "description": "Coraflon® Platinum Powder Coating, solución PPG para pintura en polvo.",
+    "line": "Pintura en polvo",
+    "subline": "PPG",
+    "image": "/images/products/client-catalog/coraflon-platinum-powder-coating.webp",
+    "url": "/linea-de-producto/productos/catalogo-coraflon-platinum-powder-coating"
+  },
+  {
+    "name": "PPG Primeron®",
+    "description": "PPG Primeron®, solución PPG para pintura en polvo.",
+    "line": "Pintura en polvo",
+    "subline": "PPG",
+    "image": "/images/products/client-catalog/ppg-primeron.webp",
+    "url": "/linea-de-producto/productos/catalogo-ppg-primeron"
+  },
+  {
+    "name": "Lijas de tecnología cerámica",
+    "description": "Lijas de tecnología cerámica, solución Etapel para lijas.",
+    "line": "Lijas",
+    "subline": "Tecnología cerámica",
+    "image": "/images/products/verified/catalogo-tecnologia-ceramica.webp",
+    "url": "/linea-de-producto/productos/catalogo-tecnologia-ceramica"
+  },
+  {
+    "name": "Premium",
+    "description": "Premium, solución Kovax para lijas.",
+    "line": "Lijas",
+    "subline": "Tecnología de óxido de aluminio",
+    "image": "/images/products/verified/catalogo-premium.webp",
+    "url": "/linea-de-producto/productos/catalogo-premium"
+  },
+  {
+    "name": "Sistema Buflex - Eagle Abrasives",
+    "description": "Sistema Buflex - Eagle Abrasives, solución Eagle Abrasives para lijas.",
+    "line": "Lijas",
+    "subline": "Sistema de lijado para pulir",
+    "image": "/images/products/client-catalog/sistema-buflex-eagle-abrasives.webp",
+    "url": "/linea-de-producto/productos/catalogo-sistema-buflex-eagle-abrasives"
+  },
+  {
+    "name": "Papel de Enmascarar (Premium)",
+    "description": "Papel de Enmascarar (Premium), solución Colad para enmascarado.",
+    "line": "Enmascarado",
+    "subline": "Papel",
+    "image": "/images/products/client-catalog/papel-de-enmascarar-premium.webp",
+    "url": "/linea-de-producto/productos/catalogo-papel-de-enmascarar-premium"
+  },
+  {
+    "name": "Cinta de Enmascarar Premium",
+    "description": "Cinta de Enmascarar Premium, solución Colad para enmascarado.",
+    "line": "Enmascarado",
+    "subline": "Masking",
+    "image": "/images/products/client-catalog/cinta-de-enmascarar-premium.webp",
+    "url": "/linea-de-producto/productos/catalogo-cinta-de-enmascarar-premium"
+  },
+  {
+    "name": "Plástico de enmascarar Premium",
+    "description": "Plástico de enmascarar Premium, solución Colad para enmascarado.",
+    "line": "Enmascarado",
+    "subline": "Plástico",
+    "image": "/images/products/client-catalog/plastico-de-enmascarar-premium.webp",
+    "url": "/linea-de-producto/productos/catalogo-plastico-de-enmascarar-premium"
+  },
+  {
+    "name": "Protectores de enmascarado",
+    "description": "Protectores de enmascarado, solución Etapel para enmascarado.",
+    "line": "Enmascarado",
+    "subline": "Protectores",
+    "image": "/images/products/verified/catalogo-protectores.webp",
+    "url": "/linea-de-producto/productos/catalogo-protectores"
+  },
+  {
+    "name": "Compuestos para pulido",
+    "description": "Compuestos para pulido, solución RUPES para pulimento.",
+    "line": "Pulimento",
+    "subline": "Pulimentos",
+    "image": "/images/products/verified/catalogo-compuestos-para-pulido.webp",
+    "url": "/linea-de-producto/productos/catalogo-compuestos-para-pulido"
+  },
+  {
+    "name": "pulimento de corte g3 premium",
+    "description": "pulimento de corte g3 premium, solución Farécla para pulimento.",
+    "line": "Pulimento",
+    "subline": "Pulimentos",
+    "image": "/images/products/verified/catalogo-pulimento-de-corte-g3-premium.webp",
+    "url": "/linea-de-producto/productos/catalogo-pulimento-de-corte-g3-premium"
+  },
+  {
+    "name": "Compounds",
+    "description": "Compounds, solución Detroit Surface Care para pulimento.",
+    "line": "Pulimento",
+    "subline": "Pulimentos",
+    "image": "/images/products/verified/catalogo-compounds.webp",
+    "url": "/linea-de-producto/productos/catalogo-compounds"
+  },
+  {
+    "name": "borlas Frecla",
+    "description": "borlas Frecla, solución Farécla para pulimento.",
+    "line": "Pulimento",
+    "subline": "Borlas Farécla",
+    "image": "/images/products/verified/catalogo-borlas-frecla.webp",
+    "url": "/linea-de-producto/productos/catalogo-borlas-frecla"
+  },
+  {
+    "name": "Almohadillas de pulido",
+    "description": "Almohadillas de pulido, solución RUPES para pulimento.",
+    "line": "Pulimento",
+    "subline": "Borlas RUPES",
+    "image": "/images/products/verified/catalogo-almohadillas-de-pulido.webp",
+    "url": "/linea-de-producto/productos/catalogo-almohadillas-de-pulido"
+  },
+  {
+    "name": "Disposable Nitrile Gloves Black 60 gloves",
+    "description": "Disposable Nitrile Gloves Black 60 gloves, solución Colad para seguridad personal.",
+    "line": "Seguridad personal",
+    "subline": "Guantes",
+    "image": "/images/products/client-catalog/disposable-nitrile-gloves-black-60-gloves.webp",
+    "url": "/linea-de-producto/productos/catalogo-disposable-nitrile-gloves-black-60-gloves"
+  },
+  {
+    "name": "Disposable Nitrile Gloves Grey",
+    "description": "Disposable Nitrile Gloves Grey, solución Colad para seguridad personal.",
+    "line": "Seguridad personal",
+    "subline": "Guantes",
+    "image": "/images/products/client-catalog/disposable-nitrile-gloves-grey.webp",
+    "url": "/linea-de-producto/productos/catalogo-disposable-nitrile-gloves-grey"
+  },
+  {
+    "name": "Disposable Nitrile Gloves Blue",
+    "description": "Disposable Nitrile Gloves Blue, solución Colad para seguridad personal.",
+    "line": "Seguridad personal",
+    "subline": "Guantes",
+    "image": "/images/products/client-catalog/disposable-nitrile-gloves-blue.webp",
+    "url": "/linea-de-producto/productos/catalogo-disposable-nitrile-gloves-blue"
+  },
+  {
+    "name": "Industrial Neoprene Gloves",
+    "description": "Industrial Neoprene Gloves, solución Colad para seguridad personal.",
+    "line": "Seguridad personal",
+    "subline": "Guantes",
+    "image": "/images/products/client-catalog/industrial-neoprene-gloves.webp",
+    "url": "/linea-de-producto/productos/catalogo-industrial-neoprene-gloves"
+  },
+  {
+    "name": "Industrial Nitrile Gloves",
+    "description": "Industrial Nitrile Gloves, solución Colad para seguridad personal.",
+    "line": "Seguridad personal",
+    "subline": "Guantes",
+    "image": "/images/products/client-catalog/industrial-nitrile-gloves.webp",
+    "url": "/linea-de-producto/productos/catalogo-industrial-nitrile-gloves"
+  },
+  {
+    "name": "BodyGuard® Overall",
+    "description": "BodyGuard® Overall, solución Colad para seguridad personal.",
+    "line": "Seguridad personal",
+    "subline": "Overoles",
+    "image": "/images/products/client-catalog/bodyguard-overall.webp",
+    "url": "/linea-de-producto/productos/catalogo-bodyguard-overall"
+  },
+  {
+    "name": "Respirator A1P2",
+    "description": "Respirator A1P2, solución Colad para seguridad personal.",
+    "line": "Seguridad personal",
+    "subline": "Mascarillas",
+    "image": "/images/products/client-catalog/respirator-a1p2.webp",
+    "url": "/linea-de-producto/productos/catalogo-respirator-a1p2"
+  },
+  {
+    "name": "Coladores para pintura",
+    "description": "Coladores para pintura, solución Colad para otros.",
+    "line": "Otros",
+    "subline": "Coladores",
+    "image": "/images/products/verified/catalogo-coladores.webp",
+    "url": "/linea-de-producto/productos/catalogo-coladores"
+  },
+  {
+    "name": "SATA RPS 0.3 L — 200 µm",
+    "description": "SATA RPS 0.3 L — 200 µm, solución SATA para otros.",
+    "line": "Otros",
+    "subline": "Vasos RPS SATA",
+    "image": "/images/products/client-catalog/1202077.webp",
+    "url": "/linea-de-producto/productos/catalogo-sata-rps-0-3-l-200-m"
+  },
+  {
+    "name": "SATA RPS 0.6 L — 125 µm",
+    "description": "SATA RPS 0.6 L — 125 µm, solución SATA para otros.",
+    "line": "Otros",
+    "subline": "Vasos RPS SATA",
+    "image": "/images/products/client-catalog/1202100.webp",
+    "url": "/linea-de-producto/productos/catalogo-sata-rps-0-6-l-125-m"
+  },
+  {
+    "name": "SATA RPS 0.9 L — 200 µm",
+    "description": "SATA RPS 0.9 L — 200 µm, solución SATA para otros.",
+    "line": "Otros",
+    "subline": "Vasos RPS SATA",
+    "image": "/images/products/client-catalog/1202267.webp",
+    "url": "/linea-de-producto/productos/catalogo-sata-rps-0-9-l-200-m"
+  },
+  {
+    "name": "Paper Spray Samples with Hole",
+    "description": "Paper Spray Samples with Hole, solución Colad para otros.",
+    "line": "Otros",
+    "subline": "Tarjetas de cartón para prueba de color",
+    "image": "/images/products/client-catalog/paper-spray-samples-with-hole.webp",
+    "url": "/linea-de-producto/productos/catalogo-paper-spray-samples-with-hole"
+  },
+  {
+    "name": "Metal Spray Samples",
+    "description": "Metal Spray Samples, solución Colad para otros.",
+    "line": "Otros",
+    "subline": "Tarjetas de lámina para prueba de color",
+    "image": "/images/products/client-catalog/metal-spray-samples.webp",
+    "url": "/linea-de-producto/productos/catalogo-metal-spray-samples"
+  },
+  {
+    "name": "Toallitas de limpieza SATA wet & dry",
+    "description": "Toallitas de limpieza SATA wet & dry, solución SATA para otros.",
+    "line": "Otros",
+    "subline": "Toallas de limpieza",
+    "image": "/images/products/client-catalog/toallitas-de-limpieza-sata-wet-dry-paquete-de-10-unidades-por-favor-tenga-en-cuenta-que-el-producto-tiene-una-fecha.webp",
+    "url": "/linea-de-producto/productos/catalogo-toallitas-de-limpieza-sata-wet-dry"
+  },
+  {
+    "name": "Coagulante para lavadoras base agua",
+    "description": "Coagulante para lavadoras base agua, solución Etapel para otros.",
+    "line": "Otros",
+    "subline": "Coagulante para lavadoras base agua",
+    "image": "/images/products/verified/catalogo-coagulante-para-lavadoras-base-agua.webp",
+    "url": "/linea-de-producto/productos/catalogo-coagulante-para-lavadoras-base-agua"
+  },
+  {
+    "name": "Poly-Flex",
+    "description": "Poly-Flex, solución Evercoat para masillas y rellenadores.",
+    "line": "Masillas y rellenadores",
+    "subline": "Poly-Flex",
+    "image": "/images/products/client-catalog/100411.webp",
+    "url": "/linea-de-producto/productos/catalogo-poly-flex"
+  },
+  {
+    "name": "RAGE OPTEX Gallon",
+    "description": "RAGE OPTEX Gallon, solución Evercoat para masillas y rellenadores.",
+    "line": "Masillas y rellenadores",
+    "subline": "RAGE OPTEX Gallon",
+    "image": "/images/products/client-catalog/100135.webp",
+    "url": "/linea-de-producto/productos/catalogo-rage-optex-gallon"
+  },
+  {
+    "name": "Lite Weight Optex Gallon",
+    "description": "Lite Weight Optex Gallon, solución Evercoat para masillas y rellenadores.",
+    "line": "Masillas y rellenadores",
+    "subline": "Lite Weight Optex Gallon",
+    "image": "/images/products/client-catalog/100356.webp",
+    "url": "/linea-de-producto/productos/catalogo-lite-weight-optex-gallon"
+  },
+  {
+    "name": "Z-Grip Optex Gallon",
+    "description": "Z-Grip Optex Gallon, solución Evercoat para masillas y rellenadores.",
+    "line": "Masillas y rellenadores",
+    "subline": "Z-Grip Optex Gallon",
+    "image": "/images/products/verified/catalogo-z-grip-optex-gallon.webp",
+    "url": "/linea-de-producto/productos/catalogo-z-grip-optex-gallon"
+  },
+  {
+    "name": "Spot-Lite",
+    "description": "Spot-Lite, solución Evercoat para masillas y rellenadores.",
+    "line": "Masillas y rellenadores",
+    "subline": "Spot-Lite",
+    "image": "/images/products/client-catalog/100446.webp",
+    "url": "/linea-de-producto/productos/catalogo-spot-lite"
+  },
+  {
+    "name": "Evercoat Everglaze — tubo rojo de 1 lb",
+    "description": "Evercoat Everglaze — tubo rojo de 1 lb, solución Evercoat para masillas y rellenadores.",
+    "line": "Masillas y rellenadores",
+    "subline": "Everglaze, tubo rojo de 1 lb",
+    "image": "/images/products/verified/catalogo-masilla-acrilica-fina-beige-200gr.webp",
+    "url": "/linea-de-producto/productos/catalogo-masilla-acrilica-fina-beige-200gr"
+  },
+  {
+    "name": "Undercoating M80 - Repaintable",
+    "description": "Undercoating M80 - Repaintable, solución Colad para antipiedras y selladores.",
+    "line": "Antipiedras y selladores",
+    "subline": "Undercoating M80 repintable",
+    "image": "/images/products/client-catalog/undercoating-m80-repaintable.webp",
+    "url": "/linea-de-producto/productos/catalogo-undercoating-m80-repaintable"
+  },
+  {
+    "name": "Sellador auto adherible (antirruido) de 25 x 50 cm (Cja. c/8 pzs)",
+    "description": "Sellador auto adherible (antirruido) de 25 x 50 cm (Cja. c/8 pzs), solución Etapel para antipiedras y selladores.",
+    "line": "Antipiedras y selladores",
+    "subline": "Sellador autoadherible antirruido",
+    "image": "/images/products/verified/catalogo-sellador-auto-adherible-antirruido-de-25-x-50-cm-cja-c-8-pzs.webp",
+    "url": "/linea-de-producto/productos/catalogo-sellador-auto-adherible-antirruido-de-25-x-50-cm-cja-c-8-pzs"
+  },
+  {
+    "name": "Masilla p/carrocería (sellador gris)",
+    "description": "Masilla p/carrocería (sellador gris), solución Etapel para antipiedras y selladores.",
+    "line": "Antipiedras y selladores",
+    "subline": "Masilla para carrocería (sellador gris)",
+    "image": "/images/products/verified/catalogo-masilla-p-carroceria-sellador-gris.webp",
+    "url": "/linea-de-producto/productos/catalogo-masilla-p-carroceria-sellador-gris"
+  },
+  {
+    "name": "100 ARANDELAS Ø8x16mm",
+    "description": "100 ARANDELAS Ø8x16mm, solución GYS para consumibles herramientas.",
+    "line": "Consumibles herramientas",
+    "subline": "Arandelas 8 × 16 mm",
+    "image": "/images/products/verified/catalogo-100-arandelas-8x16mm.webp",
+    "url": "/linea-de-producto/productos/catalogo-100-arandelas-8x16mm"
+  },
+  {
+    "name": "Lápiz de carbón",
+    "description": "Lápiz de carbón, solución Etapel para consumibles herramientas.",
+    "line": "Consumibles herramientas",
+    "subline": "Lápiz de carbón",
+    "image": "/images/products/verified/catalogo-lapiz-de-carbon.webp",
+    "url": "/linea-de-producto/productos/catalogo-lapiz-de-carbon"
+  },
+  {
+    "name": "KIT HILO ONDULADO 50 HEBRAS Diam=1.8, Long=290",
+    "description": "KIT HILO ONDULADO 50 HEBRAS Diam=1.8, Long=290, solución GYS para consumibles herramientas.",
+    "line": "Consumibles herramientas",
+    "subline": "Alambre ondulado",
+    "image": "/images/products/client-catalog/kit-hilo-ondulado-50-hebras-diam-1-8-long-290.webp",
+    "url": "/linea-de-producto/productos/catalogo-kit-hilo-ondulado-50-hebras-diam-1-8-long-290"
+  },
+  {
+    "name": "50 ANILLAS DE TIRO TORCIDAS",
+    "description": "50 ANILLAS DE TIRO TORCIDAS, solución GYS para consumibles herramientas.",
+    "line": "Consumibles herramientas",
+    "subline": "Anillos de tiro retorcidos",
+    "image": "/images/products/client-catalog/50-anillas-de-tiro-torcidas.webp",
+    "url": "/linea-de-producto/productos/catalogo-50-anillas-de-tiro-torcidas"
+  },
+  {
+    "name": "100 ANILLAS DE TIRO RECTO",
+    "description": "100 ANILLAS DE TIRO RECTO, solución GYS para consumibles herramientas.",
+    "line": "Consumibles herramientas",
+    "subline": "Anillos de tiro rectos",
+    "image": "/images/products/client-catalog/100-anillas-de-tiro-recto.webp",
+    "url": "/linea-de-producto/productos/catalogo-100-anillas-de-tiro-recto"
+  },
+  {
+    "name": "20 ESTRELLAS TIRACLAVOS PROTECCIÓN COBRE",
+    "description": "20 ESTRELLAS TIRACLAVOS PROTECCIÓN COBRE, solución GYS para consumibles herramientas.",
+    "line": "Consumibles herramientas",
+    "subline": "Estrellas tiraclavos",
+    "image": "/images/products/client-catalog/20-estrellas-tiraclavos-proteccion-cobre.webp",
+    "url": "/linea-de-producto/productos/catalogo-20-estrellas-tiraclavos-proteccion-cobre"
+  },
+  {
+    "name": "HILO MAG ACERO Ø0,6 - BOBINA PLÁSTICO S200 5Kg - ER70S-6 / G3Si1",
+    "description": "HILO MAG ACERO Ø0,6 - BOBINA PLÁSTICO S200 5Kg - ER70S-6 / G3Si1, solución GYS para consumibles herramientas.",
+    "line": "Consumibles herramientas",
+    "subline": "Microalambre de acero 0.6 mm",
+    "image": "/images/products/client-catalog/hilo-mag-acero-0-6-bobina-plastico-s200-5kg-er70s-6-g3si1.webp",
+    "url": "/linea-de-producto/productos/catalogo-hilo-mag-acero-0-6-bobina-plastico-s200-5kg-er70s-6-g3si1"
+  },
+  {
+    "name": "Broca (diam.8mm.)",
+    "description": "Broca (diam.8mm.), solución Etapel para consumibles herramientas.",
+    "line": "Consumibles herramientas",
+    "subline": "Broca de 8 mm",
+    "image": "/images/products/verified/catalogo-broca-diam-8mm.webp",
+    "url": "/linea-de-producto/productos/catalogo-broca-diam-8mm"
+  },
+  {
+    "name": "Segueta (24-dientes)",
+    "description": "Segueta (24-dientes), solución Etapel para consumibles herramientas.",
+    "line": "Consumibles herramientas",
+    "subline": "Segueta de 24 dientes",
+    "image": "/images/products/verified/catalogo-segueta-24-dientes.webp",
+    "url": "/linea-de-producto/productos/catalogo-segueta-24-dientes"
+  }
+]
